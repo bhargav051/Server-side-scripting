@@ -1,0 +1,24 @@
+{
+ "cards": [
+  {
+   "card": "Total Sales Order"
+  }
+ ],
+ "charts": [
+  {
+   "width": "Half"
+  }
+ ],
+ "creation": "2024-06-26 10:43:59.086062",
+ "dashboard_name": "Sales Order Details",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "modified": "2024-06-26 10:43:59.086062",
+ "modified_by": "Administrator",
+ "module": "Dashboard",
+ "name": "Sales Order Details",
+ "owner": "Administrator"
+}

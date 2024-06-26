@@ -1,0 +1,21 @@
+{
+ "creation": "2024-06-26 11:27:31.157446",
+ "docstatus": 0,
+ "doctype": "Number Card",
+ "filters_json": "null",
+ "function": "Count",
+ "idx": 0,
+ "is_public": 1,
+ "is_standard": 1,
+ "label": "Value_greater_than",
+ "method": "dashboard.NumberCard.salesGreaterThanVal",
+ "modified": "2024-06-26 11:27:31.157446",
+ "modified_by": "Administrator",
+ "module": "Dashboard",
+ "name": "Value_greater_than",
+ "owner": "Administrator",
+ "report_function": "Sum",
+ "show_percentage_stats": 1,
+ "stats_time_interval": "Daily",
+ "type": "Custom"
+}
